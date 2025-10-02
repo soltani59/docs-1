@@ -31,7 +31,7 @@
     "@reduxjs/toolkit": "1.9.7",
     "@shikijs/core": "1.3.0",
     "@shikijs/transformers": "1.3.0",
-    "@supabase/supabase-js": "2.44.3",
+    "@supabase/supabase-js": "2.57.4",
     "@svgr/webpack": "6.5.1",
     "@t3-oss/env-nextjs": "0.7.1",
     "@tailwindcss/line-clamp": "0.4.4",
